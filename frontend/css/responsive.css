@@ -1,0 +1,43 @@
+/* Tablet */
+@media (max-width: 960px) {
+  .two-col { grid-template-columns: 1fr; }
+  .stat-strip { grid-template-columns: repeat(2, 1fr); }
+  .hero-stars { width: 400px; height: 400px; right: -120px; }
+}
+
+/* Mobile */
+@media (max-width: 680px) {
+  .wrap { padding: 0 16px; }
+  .site-header .wrap { height: auto; padding-top: 10px; padding-bottom: 10px; flex-wrap: wrap; gap: 10px; }
+  .main-nav { order: 3; width: 100%; justify-content: space-between; }
+  .main-nav a { flex: 1; text-align: center; padding: 8px 6px; }
+  .brand-name { font-size: 19px; }
+  .hero { padding: 44px 0 26px; }
+  .hero-stars { width: 300px; height: 300px; right: -110px; top: -20px; }
+  .hero-actions .btn { flex: 1 1 100%; justify-content: center; }
+  .fixture-card { padding: 12px 12px; }
+  .fc-main { gap: 8px; }
+  .team { gap: 8px; flex-direction: column; align-items: flex-start; }
+  .team.home { align-items: flex-end; flex-direction: column-reverse; }
+  .team-name { font-size: 14px; }
+  .crest, .crest-fallback { width: 32px; height: 32px; }
+  .centre { min-width: 70px; }
+  .score { font-size: 28px; }
+  .prob-labels { font-size: 11px; }
+  .mh-grid { gap: 8px; }
+  .mh-team .crest, .mh-team .crest-fallback { width: 58px; height: 58px; }
+  .mh-team .team-name { font-size: 19px; }
+  .mh-centre .score { font-size: 44px; }
+  .mh-centre .vs { font-size: 28px; }
+  .match-hero { padding: 22px 14px 18px; }
+  .panel { padding: 16px 14px; }
+  .standings td, .standings th { padding: 9px 6px; }
+  .standings td.club .cell span.name { max-width: 130px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: inline-block; }
+  .standings th.club, .standings td.club { position: sticky; left: 0; background: var(--surface-solid); z-index: 1; }
+  .section-head { margin-top: 34px; }
+}
+
+@media (max-width: 380px) {
+  .stat-strip { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .stat-tile .num { font-size: 28px; }
+}

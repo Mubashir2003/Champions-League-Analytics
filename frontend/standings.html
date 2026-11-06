@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" data-theme="night">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Standings · UCL Analytics</title>
+<meta name="description" content="Champions League 2026/27 league-phase standings.">
+<script>(function(){try{var t=localStorage.getItem("ucl-theme");document.documentElement.setAttribute("data-theme",t==="day"?"day":"night");}catch(e){document.documentElement.setAttribute("data-theme","night");}})();</script>
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;1,700&family=Inter:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/responsive.css">
+</head>
+<body data-page="standings">
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="UCL Analytics home"><span class="brand-mark" data-stars="mark"></span><span class="brand-name">UCL <span>Analytics</span></span></a>
+    <nav class="main-nav" aria-label="Main">
+      <a href="/" data-nav="overview">Overview</a>
+      <a href="/fixtures.html" data-nav="fixtures">Fixtures</a>
+      <a href="/standings.html" data-nav="standings">Standings</a>
+    </nav>
+    <button class="theme-toggle" type="button" aria-label="Switch to day mode">
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.2M12 19.8V22M4.9 4.9l1.6 1.6M17.5 17.5l1.6 1.6M2 12h2.2M19.8 12H22M4.9 19.1l1.6-1.6M17.5 6.5l1.6-1.6"/></svg>
+    </button>
+  </div>
+</header>
+<main>
+  <div class="wrap">
+    <section class="page-head">
+      <h1>Standings</h1>
+      <p>Champions League 2026/27 · League phase</p>
+    </section>
+    <div style="margin-top:26px" id="standings"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap"><span>UCL Analytics · Season 2026/27</span><span>&copy; <span data-year>2026</span></span></div>
+</footer>
+<script src="/js/app.js"></script>
+<script src="/js/standings.js"></script>
+</body>
+</html>
