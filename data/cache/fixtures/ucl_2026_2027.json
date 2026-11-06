@@ -1,0 +1,2597 @@
+{
+ "stored_at": 1793976875.925205,
+ "value": [
+  {
+   "id": "m_18MAD7",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "away_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "score_home": 1,
+   "score_away": 0
+  },
+  {
+   "id": "m_2kSET4",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "away_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_1LdzQe",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "away_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "score_home": 2,
+   "score_away": 1
+  },
+  {
+   "id": "m_2qX8A6",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "away_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_0pk6hw",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "away_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "score_home": 3,
+   "score_away": 2
+  },
+  {
+   "id": "m_4AMmPN",
+   "date": "2026-09-08",
+   "time_utc": "2026-09-08T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "away_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "score_home": 0,
+   "score_away": 2
+  },
+  {
+   "id": "m_2Czbg8",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "away_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "score_home": 3,
+   "score_away": 1
+  },
+  {
+   "id": "m_2ccJqv",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "away_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "score_home": 5,
+   "score_away": 1
+  },
+  {
+   "id": "m_3c0TFr",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "away_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "score_home": 2,
+   "score_away": 1
+  },
+  {
+   "id": "m_0jZMQu",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "away_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "score_home": 6,
+   "score_away": 1
+  },
+  {
+   "id": "m_0E90Ft",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "away_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "score_home": 0,
+   "score_away": 1
+  },
+  {
+   "id": "m_0Iridz",
+   "date": "2026-09-09",
+   "time_utc": "2026-09-09T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "away_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "score_home": 3,
+   "score_away": 1
+  },
+  {
+   "id": "m_1QvDS1",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "away_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "score_home": 1,
+   "score_away": 1
+  },
+  {
+   "id": "m_0OlaZm",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "away_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "score_home": 1,
+   "score_away": 1
+  },
+  {
+   "id": "m_4Y36dD",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "away_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "score_home": 5,
+   "score_away": 0
+  },
+  {
+   "id": "m_2t8Qcm",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "away_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "score_home": 4,
+   "score_away": 1
+  },
+  {
+   "id": "m_2BnDTN",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "away_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_0kOi3X",
+   "date": "2026-09-10",
+   "time_utc": "2026-09-10T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "away_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "score_home": 4,
+   "score_away": 0
+  },
+  {
+   "id": "m_08njyF",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "away_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "score_home": 2,
+   "score_away": 0
+  },
+  {
+   "id": "m_0Z7ndF",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "away_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "score_home": 0,
+   "score_away": 2
+  },
+  {
+   "id": "m_4SWjzR",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "away_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "score_home": 3,
+   "score_away": 0
+  },
+  {
+   "id": "m_0W5dL4",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "away_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "score_home": 2,
+   "score_away": 0
+  },
+  {
+   "id": "m_1rmeUJ",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "away_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "score_home": 3,
+   "score_away": 4
+  },
+  {
+   "id": "m_0kr4Tj",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "away_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "score_home": 1,
+   "score_away": 0
+  },
+  {
+   "id": "m_1P83uX",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "away_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "score_home": 3,
+   "score_away": 3
+  },
+  {
+   "id": "m_3UjywO",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "away_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "score_home": 3,
+   "score_away": 1
+  },
+  {
+   "id": "m_24qLy7",
+   "date": "2026-10-13",
+   "time_utc": "2026-10-13T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "away_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "score_home": 1,
+   "score_away": 4
+  },
+  {
+   "id": "m_40UoYs",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "away_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "score_home": 3,
+   "score_away": 2
+  },
+  {
+   "id": "m_14ZQnO",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "away_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "score_home": 3,
+   "score_away": 6
+  },
+  {
+   "id": "m_0nhvU6",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "away_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "score_home": 2,
+   "score_away": 4
+  },
+  {
+   "id": "m_1r6TyQ",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "away_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "score_home": 1,
+   "score_away": 0
+  },
+  {
+   "id": "m_4WDCuM",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "away_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "score_home": 6,
+   "score_away": 0
+  },
+  {
+   "id": "m_0sXO3m",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "away_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "score_home": 3,
+   "score_away": 4
+  },
+  {
+   "id": "m_2PAfzG",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "away_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "score_home": 3,
+   "score_away": 1
+  },
+  {
+   "id": "m_09f77c",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "away_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "score_home": 3,
+   "score_away": 2
+  },
+  {
+   "id": "m_0KZSEg",
+   "date": "2026-10-14",
+   "time_utc": "2026-10-14T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "away_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "score_home": 0,
+   "score_away": 3
+  },
+  {
+   "id": "m_0CgrSZ",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "away_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "score_home": 2,
+   "score_away": 2
+  },
+  {
+   "id": "m_1wcz8f",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "away_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "score_home": 1,
+   "score_away": 2
+  },
+  {
+   "id": "m_1ETAAh",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "away_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "score_home": 4,
+   "score_away": 3
+  },
+  {
+   "id": "m_16kboG",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "away_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "score_home": 4,
+   "score_away": 0
+  },
+  {
+   "id": "m_12BHNW",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "away_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "score_home": 1,
+   "score_away": 1
+  },
+  {
+   "id": "m_14BqaI",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "away_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "score_home": 4,
+   "score_away": 2
+  },
+  {
+   "id": "m_1w0acT",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "away_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "score_home": 4,
+   "score_away": 3
+  },
+  {
+   "id": "m_24E8L5",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "away_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "score_home": 0,
+   "score_away": 1
+  },
+  {
+   "id": "m_3L83Uf",
+   "date": "2026-10-20",
+   "time_utc": "2026-10-20T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "away_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "score_home": 5,
+   "score_away": 1
+  },
+  {
+   "id": "m_2fv7yB",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "away_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "score_home": 2,
+   "score_away": 4
+  },
+  {
+   "id": "m_3ycrif",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T16:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "away_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "score_home": 4,
+   "score_away": 1
+  },
+  {
+   "id": "m_45WQej",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "away_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_3QUxWo",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "away_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "score_home": 1,
+   "score_away": 0
+  },
+  {
+   "id": "m_2Sd0n0",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "away_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "score_home": 1,
+   "score_away": 0
+  },
+  {
+   "id": "m_1LBGR1",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "away_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "score_home": 4,
+   "score_away": 1
+  },
+  {
+   "id": "m_2Q8JBE",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "away_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "score_home": 2,
+   "score_away": 2
+  },
+  {
+   "id": "m_3REJMr",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "away_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "score_home": 3,
+   "score_away": 0
+  },
+  {
+   "id": "m_1c1hl9",
+   "date": "2026-10-21",
+   "time_utc": "2026-10-21T19:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "away_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "score_home": 3,
+   "score_away": 1
+  },
+  {
+   "id": "m_31MYPN",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T17:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "away_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "score_home": 0,
+   "score_away": 1
+  },
+  {
+   "id": "m_3AQ6Oe",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T17:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "away_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "score_home": 2,
+   "score_away": 0
+  },
+  {
+   "id": "m_0VlPJS",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "away_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "score_home": 0,
+   "score_away": 0
+  },
+  {
+   "id": "m_26eRTe",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "away_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "score_home": 4,
+   "score_away": 0
+  },
+  {
+   "id": "m_04phda",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "away_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "score_home": 0,
+   "score_away": 2
+  },
+  {
+   "id": "m_2zVvvF",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "away_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "score_home": 3,
+   "score_away": 2
+  },
+  {
+   "id": "m_3mPziT",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "away_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "score_home": 0,
+   "score_away": 3
+  },
+  {
+   "id": "m_0k4IES",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "away_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "score_home": 0,
+   "score_away": 6
+  },
+  {
+   "id": "m_3eSoqB",
+   "date": "2026-11-03",
+   "time_utc": "2026-11-03T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "away_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "score_home": 3,
+   "score_away": 0
+  },
+  {
+   "id": "m_2pqLCB",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T17:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "away_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_0UTPf2",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T17:45:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "away_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "score_home": 3,
+   "score_away": 2
+  },
+  {
+   "id": "m_4Wgl1L",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "away_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "score_home": 1,
+   "score_away": 2
+  },
+  {
+   "id": "m_46K3gH",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "away_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "score_home": 4,
+   "score_away": 1
+  },
+  {
+   "id": "m_10Z35D",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "away_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "score_home": 1,
+   "score_away": 9
+  },
+  {
+   "id": "m_3Bhlqj",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "away_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "score_home": 2,
+   "score_away": 3
+  },
+  {
+   "id": "m_2bderB",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "away_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "score_home": 2,
+   "score_away": 1
+  },
+  {
+   "id": "m_1zT87G",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "away_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "score_home": 1,
+   "score_away": 2
+  },
+  {
+   "id": "m_26ZQl6",
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "home_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "away_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "score_home": 4,
+   "score_away": 1
+  },
+  {
+   "id": "m_4SYMzr",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "away_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0yKeRt",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "away_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0c78zD",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "away_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2cwDyu",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "away_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_38M4aC",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "away_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_13c8QW",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "away_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3H4WRT",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "away_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3llrZc",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "away_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4J6bPl",
+   "date": "2026-11-24",
+   "time_utc": "2026-11-24T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "away_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0n69Si",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "away_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_18IfVI",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "away_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_36394c",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "away_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0vHscK",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "away_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0nnJoD",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "away_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_29gc42",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "away_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3FjwuH",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "away_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1WLVGt",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "away_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2bTWR8",
+   "date": "2026-11-25",
+   "time_utc": "2026-11-25T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "away_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4D9brA",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "away_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2F47L8",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "away_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0xLpIb",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "away_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3mWpj0",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "away_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_19yVWq",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "away_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3uWxjs",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "away_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0OcGiW",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "away_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1JLpYl",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "away_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1yQRSa",
+   "date": "2026-12-08",
+   "time_utc": "2026-12-08T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "away_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1bwCon",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "away_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2Hvwlr",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "away_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2ATpSk",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "away_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3tud4E",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "away_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_20P8vs",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "away_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3iox8a",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "away_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2zlOGw",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "away_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1NrXcr",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "away_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2fFtXy",
+   "date": "2026-12-09",
+   "time_utc": "2026-12-09T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "away_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_32vbM6",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "away_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2PIcJh",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "away_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_27ixep",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "away_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2XixHJ",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "away_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3O7ffZ",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "away_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0d2Yda",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "away_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2647cx",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "away_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0AY083",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "away_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3cJw8j",
+   "date": "2027-01-19",
+   "time_utc": "2027-01-19T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "away_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_0vJ1bS",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "away_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2UzJDM",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T17:45:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "away_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3WTJRt",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "away_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4dlLZw",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "away_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3H4dfY",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "away_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2hIl9Z",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "away_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4PGQWl",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "away_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1B76q0",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "away_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4RkdQq",
+   "date": "2027-01-20",
+   "time_utc": "2027-01-20T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "away_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2G1xXt",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1jOgDP",
+    "name": "PSV Eindhoven",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e89b7540c69dc8b8a7b32bc58f807d304e60d8223890a76a60beaef26980e882.webp"
+   },
+   "away_team": {
+    "id": "t_0iJNOA",
+    "name": "VfB Stuttgart",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3e4064e2cf85702db11b273fb3d69d3bad241733eba932255961f48a2a08b452.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1xeIqU",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_41iFW3",
+    "name": "Paris Saint-Germain",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/79197b8594269f02679ffd055d230e2095d99bde56994d5bc4d6b6a01a1ada13.webp"
+   },
+   "away_team": {
+    "id": "t_15TWxO",
+    "name": "Galatasaray",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/b2f762b5bacdd581c3d182ca109615814151ee90e37749cb276d5a9bda88b13a.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_28wmHy",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0BrMnM",
+    "name": "Liverpool",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5538ce3ddde32fc5d72918ee128c4b04a49443a3586aec8e7e99d911d3d36c99.webp"
+   },
+   "away_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1WnewK",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1ta56l",
+    "name": "LASK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+   },
+   "away_team": {
+    "id": "t_0dVrhE",
+    "name": "FC Porto",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_3wpwoH",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4KvHFN",
+    "name": "Feyenoord",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/dcf2421ca736dcdb1b71522260d467a0681d0b4bad3308c2e912f58f37a3511d.webp"
+   },
+   "away_team": {
+    "id": "t_0oqUbb",
+    "name": "RB Leipzig",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d0ea8dba830e1ec387985c6fa33f8f4c101f61c955c46054bb406a32e57b4e6d.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_18Oylp",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1mTmMO",
+    "name": "Club Brugge",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/27ed7332a13ab1db112824396edb58f2636ca7955b5cf2fd46e64b37afadbee0.webp"
+   },
+   "away_team": {
+    "id": "t_0SGPHB",
+    "name": "Bodø/Glimt",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_05ErnL",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1cpjqO",
+    "name": "Bayern München",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e2afd379a7d354c930f790c1f9ab0c2b50654cf4d47f20ffb269b8cfe309bca.webp"
+   },
+   "away_team": {
+    "id": "t_0HSzvM",
+    "name": "Real Betis",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/3032d6554f9f217984830cb35b054bd116c0546d5f31686fe446efafe48e79e1.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_43knut",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_1gkhxH",
+    "name": "Arsenal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/cc89aa6a111b43694223ca0506940e05f825369c259a6c8bf4ab8cf8b080a05b.webp"
+   },
+   "away_team": {
+    "id": "t_30ZV5A",
+    "name": "Sabah FK",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/81bf98d426f1a8efd9993fcfca036a9efa2ab03aa5d2590b33d902ef9490f678.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_1XGmD3",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_386iz1",
+    "name": "Borussia Dortmund",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9a049cf470f5e8a1b096c1ac46c7a742944c23a6c82be592fd7f2889aa476de5.webp"
+   },
+   "away_team": {
+    "id": "t_2jeqmO",
+    "name": "AEK Athens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/7a5e1ea3a61aa9dad0ed73f67c8617b24633f76185bc91c8fab87cf6a69f46fe.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4Dpb1t",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0UCNPX",
+    "name": "Manchester City",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/a9cf2c0ab02055725d2a2a279706c44e1d375a2d3ec3cd0f67625ba883f0257d.webp"
+   },
+   "away_team": {
+    "id": "t_1TAfIz",
+    "name": "Sporting CP",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_4Nzqyq",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_41GCDg",
+    "name": "Slavia Prague",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+   },
+   "away_team": {
+    "id": "t_4RqKpo",
+    "name": "Aston Villa",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/fba3bf0754a20dffd4acc44c3d5f6b12f7d8ab9c79ae6000a745d30385cd631c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2GgUDP",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_32jSEF",
+    "name": "Barcelona",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/71881ba9f1d678143d4d2b88feab251ce8a840eca4c46768e756e73e5170687c.webp"
+   },
+   "away_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_13ZTgQ",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_3NIiXl",
+    "name": "Atlético Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/e7ed0850dc75498dd5989ac217e4c9345476f9967d89385e5ece1ef5bcd8a330.webp"
+   },
+   "away_team": {
+    "id": "t_2wJJY2",
+    "name": "Fenerbahçe",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/c3f91e2fb35d5962a65d5ee8e24dccba47d82e950e152a39e28c1a3e733b8397.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_243gm8",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4SV4jg",
+    "name": "Villarreal",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9cd74c38ef6d75a878041878ed6f18da3fb9e6cf81baae23d266a64821a63a71.webp"
+   },
+   "away_team": {
+    "id": "t_2I313i",
+    "name": "Manchester United",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d64e82187ecc985ae095feba4db1dd6607f7009424f39a745102713bb0e1e6bb.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_138eTy",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2toJRF",
+    "name": "Napoli",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/0755206cdb935eb37cd5bd42b54afc629d486c010c12029c096def4f5227db6f.webp"
+   },
+   "away_team": {
+    "id": "t_0jjyWh",
+    "name": "Viking",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2qJKNN",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_2yHOns",
+    "name": "Slovan Bratislava",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/19a562f7f6053ae9daba69ad68f5a9be26220b39c30e9f0081ab0ab089b441d8.webp"
+   },
+   "away_team": {
+    "id": "t_3CPHHF",
+    "name": "Inter",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/66c6a85491df0b8111e1c35695ef712af120a2bf0aa9b03a877377889516611e.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2wdzd7",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_4Wrrym",
+    "name": "Shakhtar Donetsk",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/457b04795e1905f9d7ca7e967d13a8c19883a168ff968db24b9023334b4254d2.webp"
+   },
+   "away_team": {
+    "id": "t_4NZcri",
+    "name": "Real Madrid",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/9e7141c583abe50554615387c99815ee3663d1a4f888549679523d2acd7f716c.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  },
+  {
+   "id": "m_2wOxKW",
+   "date": "2027-01-27",
+   "time_utc": "2027-01-27T20:00:00Z",
+   "status": "not_started",
+   "home_team": {
+    "id": "t_0RhqmW",
+    "name": "Roma",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/ad80e0ea1049979b20dd51e024dc82d40e9b665e8081ab02534310f38427b4ef.webp"
+   },
+   "away_team": {
+    "id": "t_0tnX1I",
+    "name": "Lille",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/1e97c1ce973c99ad73ddfbeee79d47efeb8946124983ddb3282074045bd3ea7a.webp"
+   },
+   "score_home": null,
+   "score_away": null
+  }
+ ]
+}

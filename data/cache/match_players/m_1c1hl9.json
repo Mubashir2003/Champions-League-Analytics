@@ -1,0 +1,8479 @@
+{
+ "stored_at": 1793976993.6438231,
+ "value": {
+  "payload": [
+   {
+    "player": {
+     "id": "p_0VKnpu",
+     "name": "Arild Østbø",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/21f9530405a643542fc92a5e26a1678709f33cf00e8229227e21e5696a9a7f74.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 15,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 33,
+         "type": "fractionWithPercentage",
+         "value": 22
+        }
+       },
+       "Acted as sweeper": {
+        "key": "keeper_sweeper",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Diving save": {
+        "key": "keeper_diving_save",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Goals conceded": {
+        "key": "goals_conceded",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Goals prevented": {
+        "key": "goals_prevented",
+        "stat": {
+         "type": "double",
+         "value": -0.25
+        }
+       },
+       "High claim": {
+        "key": "keeper_high_claim",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Punches": {
+        "key": "punches",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.5
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Saves": {
+        "key": "saves",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Saves inside box": {
+        "key": "saves_inside_box",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Throws": {
+        "key": "player_throws",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 46
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "xGOT faced": {
+        "key": "expected_goals_on_target_faced",
+        "stat": {
+         "type": "double",
+         "value": 1.75
+        }
+       }
+      },
+      "title": "Top stats"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4d3Hv8",
+     "name": "Marco Bizot",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/52fbb55ffb376c4db1f6fd03e585f5c1f749f118b2f00a7b7006d59740a4835f.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_3COnIt",
+     "name": "Ross Barkley",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/bed3a3d5bb9f7fa6a7caf3f3f012a11febfd1fc7dd3f68be21974be5933984ec.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 40,
+         "type": "fractionWithPercentage",
+         "value": 38
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.12
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.19
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 70
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 8.07
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.15
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 47
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.12
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4U79m4",
+     "name": "Victor Nilsson Lindelöf",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/33c53b55aa64c42207acc746a2b16c86967eb1600a50118f51c18ac2625e2472.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.65
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 70,
+         "value": 68
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 10
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 81
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 2
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 12
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 10
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 3
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2RAJA1",
+     "name": "Zlatko Tripić",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/07dcbb110cafa7f6dde78f13bc8d02a50e87563100515206f9d8f1576b2cc369.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 27,
+         "type": "fractionWithPercentage",
+         "value": 17
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Conceded penalty": {
+        "key": "conceded_penalties",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.18
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 75
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.86
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.22
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 10,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Corners": {
+        "key": "corners",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Offsides": {
+        "key": "Offsides",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 51
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 7,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3fmGKI",
+     "name": "Kristoffer Haugen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/ecf8d1ae1e625d7982ad3bb8ab71adbccba15b50a90f8c5ec4b344bff866908f.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_27qlxE",
+     "name": "Leon Goretzka",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/f0dcde9ffe03f1f80728946d3daa57aab941b087a2478edf4d4526ccfcc178ef.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.58
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 20
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 11,
+         "value": 11
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 16
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3gdecS",
+     "name": "John McGinn",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/d513c48a07b4f74df1182bcd6d142889583eaf22be0c649111fb5e77eb8be599.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 72,
+         "type": "fractionWithPercentage",
+         "value": 67
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Big chances created": {
+        "key": "big_chance_created_team_title",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.43
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.06
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.97
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.49
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 7,
+         "type": "fractionWithPercentage",
+         "value": 5
+        }
+       },
+       "Corners": {
+        "key": "corners",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 10
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 9
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 87
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.06
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4BuKXz",
+     "name": "Tyrone Mings",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/76c1d6a253e2486fdee2248030de9db52a974d4b236e6aa980230f202cdded70.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.08
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 39,
+         "value": 32
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 54
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 1
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3HtpWu",
+     "name": "Henrik Rørvik Bjørdal",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/ec116dbb365d1c9b8f9263cf28c692b80b826b15438629e1d2e22a1a2db75f01.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.13
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 27
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 14,
+         "value": 12
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 19
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 0
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 0
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2djDQu",
+     "name": "Viljar Vevatne",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/ebd89c91253b08739b4b02de7eb9356ac7f83d896c0c7c609d06a73258646df5.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_49VLdA",
+     "name": "Emiliano Buendía",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/da4017d3bbe2e08ad672e3b48c27cae4c08d0002fd6a37eae14d9d1d8420d8a4.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 38,
+         "type": "fractionWithPercentage",
+         "value": 26
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Big chances created": {
+        "key": "big_chance_created_team_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.14
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 1.54
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 1.06
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 8.2
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 6,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 1.6800000000000002
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Big chances missed": {
+        "key": "big_chance_missed_title",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Corners": {
+        "key": "corners",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Offsides": {
+        "key": "Offsides",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 52
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.75
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 9
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 7,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2k3KEx",
+     "name": "Jesper Daland",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/b997a3c23c466eb9ccba0d7839a56f762572d1a6a80fa2871b5cb597ac17012f.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 41,
+         "type": "fractionWithPercentage",
+         "value": 40
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 75
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 5.78
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 49
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 6,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4XqTah",
+     "name": "Matty Cash",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/da1a2ece68c29053e618f4669e175609a117928572726d91cffbc848fd61dff0.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.14
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 20
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 3
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_1pUkKU",
+     "name": "Erik Botheim",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/0f24c364a48d7b6230dc94e74e2ea21ee005aa1ac5e0f2fa79cb90a6cf91570f.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.46
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 63
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 9,
+         "value": 7
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 15
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3uKlNG",
+     "name": "Tammy Abraham",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/dafb103e93792f3eeea10f2202d0342bb30db9bdc76fe1e2327c4087ae35a2fe.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.39
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 20
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 6,
+         "value": 4
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_0QgSKb",
+     "name": "Pau Torres",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/cbf9088b30624079156a740874a033a27ddd4a1c97a43f97ba8280891ae3191b.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 71,
+         "type": "fractionWithPercentage",
+         "value": 67
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 9
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.1
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.34
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.13
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 10
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 85
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.1
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 9
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 2
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2zceWU",
+     "name": "Boubacar Kamara",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/885410a01cb4adba0d59631945ce578f024eb635eab5f3847ba747e34edb61ea.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_2521ZL",
+     "name": "Joe Bell",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/bf7942e5d7aef9ab98b998afe3dd925699d5244be65310a2ff4bdae4269496ed.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 59,
+         "type": "fractionWithPercentage",
+         "value": 56
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.44
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.08
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 10
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 65
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3DAXAR",
+     "name": "Peter Christiansen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/d00cdc6696dc8b026290f975c242a7504ba2a90cf521f4083b9f5fb558e3ca92.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 9,
+         "type": "fractionWithPercentage",
+         "value": 7
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.39
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.27
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.44
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.4
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Offsides": {
+        "key": "Offsides",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 21
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.39
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4Mwav6",
+     "name": "Kristoffer Askildsen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/cfa7d4a5e5a9de1615cda8e8a801f55480e005086ca27eda59076460dbad055b.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.16
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.13
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 44,
+         "value": 37
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Big chances created": {
+        "key": "big_chance_created_team_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.13
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 51
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 6,
+         "value": 6
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 12
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 9,
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_0ClNLd",
+     "name": "Taylor Harwood-Bellis",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/743971cf684af4a530f0cabd15861298adf7a3a73ba365ed6b93e190b45689a4.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_05Kbzt",
+     "name": "Ian Maatsen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/8952866bd2dab41a70b603dfc6f81c3eaaafbf622c4cff37cd1330ab26fda736.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_1mq7Lx",
+     "name": "Herman Haugen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/08a1996d84ae76950a3829e67717f59e0e5639d3bbb0524d7a0847047af216b2.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.96
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 86
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 28,
+         "value": 25
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.01
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 45
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 2
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 5,
+         "value": 4
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_29jdjm",
+     "name": "Gianni Stensness",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/24e8200e3268523f6a9023424c826c9fd0d450018e1c30003eaa9c7fcbeecc56.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 65,
+         "type": "fractionWithPercentage",
+         "value": 62
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.87
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 6,
+         "type": "fractionWithPercentage",
+         "value": 5
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 11
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 80
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 8
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3YwFnk",
+     "name": "Zion Suzuki",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 15,
+         "type": "fractionWithPercentage",
+         "value": 7
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 26,
+         "type": "fractionWithPercentage",
+         "value": 18
+        }
+       },
+       "Acted as sweeper": {
+        "key": "keeper_sweeper",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Diving save": {
+        "key": "keeper_diving_save",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Goals conceded": {
+        "key": "goals_conceded",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Goals prevented": {
+        "key": "goals_prevented",
+        "stat": {
+         "type": "double",
+         "value": -0.69
+        }
+       },
+       "High claim": {
+        "key": "keeper_high_claim",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Punches": {
+        "key": "punches",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.39
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Saves": {
+        "key": "saves",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Saves inside box": {
+        "key": "saves_inside_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Throws": {
+        "key": "player_throws",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 32
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "xGOT faced": {
+        "key": "expected_goals_on_target_faced",
+        "stat": {
+         "type": "double",
+         "value": 0.31
+        }
+       }
+      },
+      "title": "Top stats"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_1HQr3m",
+     "name": "Romano Postema",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/0087c3f3ab4a6ecd62549c8f279ffe3beb117678beafe1552671743b8ab30e1e.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_1NWQUY",
+     "name": "Henrik Falchener",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/af340ad3d00f45f6336908da336708a15777ab54712db56794166e56279039c9.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_0xVqRJ",
+     "name": "Lubomír Belko",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/4a35c2bd454fa66c95797703c9dcde4d289429c430f77335e45107484bfc0913.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_2s7UEh",
+     "name": "Henrik Heggheim",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/17a6ef610abdc0a795c7fc19f399a5d5baef068311de8f4f4f1a45c4cfd47233.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 5.06
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Own goal": {
+        "key": "owngoal",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 90
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 31,
+         "value": 27
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 43
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 3
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 5,
+         "value": 3
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_179WVr",
+     "name": "João Gomes",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/f357763473585a27e591323020d8a6b7e5a8eb0edb5585cf3bb959e9ddefbc5d.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.82
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 70
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 70,
+         "value": 64
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.04
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 82
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 8,
+         "value": 5
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_0627A8",
+     "name": "Lamare Bogarde",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/89899d425f41a8ec83db1ea275722021f4aef712547f8c96fd87c528e2a3fd9a.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_3giUjN",
+     "name": "Nicolas Jackson",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 12,
+         "type": "fractionWithPercentage",
+         "value": 11
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.06
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.5
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.28
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 70
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.56
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.56
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Big chances missed": {
+        "key": "big_chance_missed_title",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 2
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 29
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.5
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Headed clearance": {
+        "key": "headed_clearance",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 8,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2wEmeT",
+     "name": "Alejandro Garnacho",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/ae38b15e54953b5b8223880b052517bc7180cbc423fcea4df519e9fa1ef0404c.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 5,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.18
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.05
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 18
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.27
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.18
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Big chances missed": {
+        "key": "big_chance_missed_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 11
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.18
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_087FvL",
+     "name": "Simen Kvia-Egeskog",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/250405ede215b48b99f121110f8163ef63cd4a336019f276803fdb8233b51ffb.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.3
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 27
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 8,
+         "value": 7
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 14
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 1,
+         "value": 0
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 2,
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3b560i",
+     "name": "James Wright",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/5f3c8812db97c63e12bb3ba9c74641b7be03bdd920a557a5b6431b782dc3ab68.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_0u7C6g",
+     "name": "Jakob Segadal Hansen",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/9075d88a4d257e516e0523e4a7c2bd92e23b64a68212c125b6c774177c7cecad.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_0SCag8",
+     "name": "Vetle Auklend",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/723f566cfc5798346eeccbd318be8444ed3f0b0f0e3db454f7ff9ce6de4ba648.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.27
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 15
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 12,
+         "value": 11
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 15
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3xRkyt",
+     "name": "Ibrahim Mbaye",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/1eefd5b3e216ef926f55ec60e0b7496f9482e2829d9a7eb47a3bb3fc16355abc.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 22,
+         "type": "fractionWithPercentage",
+         "value": 20
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Big chances created": {
+        "key": "big_chance_created_team_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.27
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.14
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 72
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 7.99
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.30000000000000004
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 2
+        }
+       },
+       "Corners": {
+        "key": "corners",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Offsides": {
+        "key": "Offsides",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 40
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 7
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 9,
+         "type": "fractionWithPercentage",
+         "value": 2
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_2IM14j",
+     "name": "George Hemmings",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/237a23a28b8fdc14e98d279556ae3aec92f44d117d8e09f55fd92320e54f6237.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.15
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 15
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 3,
+         "value": 2
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4Pz8ta",
+     "name": "Tobias Moi",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/369f0e42a38f43623a75825e143861568ebed52ea14b2f19e8d4075ad3b3b929.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 35,
+         "type": "fractionWithPercentage",
+         "value": 31
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.2
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 63
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 6.87
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.22
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate long balls": {
+        "key": "long_balls_accurate",
+        "stat": {
+         "total": 3,
+         "type": "fractionWithPercentage",
+         "value": 2
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 44
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.2
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 4,
+         "type": "fractionWithPercentage",
+         "value": 3
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_3NGRpm",
+     "name": "Niklas Fuglestad",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/5e39be5259560b296e7f31bc8afd3fdb94864875d6a78f1f579d985d3a25e126.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": []
+   },
+   {
+    "player": {
+     "id": "p_3FRiNW",
+     "name": "Alysson Edward",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/a2adc596f5c532abf932daf01ef06d117fc2593c8483f8673cdc933a7efccf80.webp"
+    },
+    "team_id": "t_4RqKpo",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 36,
+         "type": "fractionWithPercentage",
+         "value": 32
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Big chances created": {
+        "key": "big_chance_created_team_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Expected assists (xA)": {
+        "key": "expected_assists",
+        "stat": {
+         "type": "double",
+         "value": 0.59
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.15
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": 0.02
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 75
+        }
+       },
+       "Penalties won": {
+        "key": "penalties_won",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 8.18
+        }
+       },
+       "Shot accuracy": {
+        "key": "shot_accuracy",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 3
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.74
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 1
+        }
+       },
+       "Big chances missed": {
+        "key": "big_chance_missed_title",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Line breaking passes": {
+        "key": "line_breaking_passes",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Passes into final third": {
+        "key": "passes_into_final_third",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 6,
+         "type": "fractionWithPercentage",
+         "value": 4
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 54
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 9
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.15
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Duels won": {
+        "key": "duel_won",
+        "stat": {
+         "type": "integer",
+         "value": 6
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 10,
+         "type": "fractionWithPercentage",
+         "value": 6
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_22extJ",
+     "name": "Essien Bassey",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/825166ed71d1804d1089e3be20c42d876acdf83258d8356538314a3d775263d7.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 4
+        }
+       },
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 5,
+         "value": 4
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 5
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "type": "fractionWithPercentage",
+         "total": 0,
+         "value": 0
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   },
+   {
+    "player": {
+     "id": "p_4E74Vl",
+     "name": "Amin Cosic",
+     "position_id": null,
+     "image_url": "https://cdn.pitchapi.dev/images/players/b8db2b04c70cb8fbfab2d4848ec2fb05da74f75c1651638c7a2f91b0d7ab966c.webp"
+    },
+    "team_id": "t_0jjyWh",
+    "stats": [
+     {
+      "key": "top_stats",
+      "stats": {
+       "Accurate passes": {
+        "key": "accurate_passes",
+        "stat": {
+         "total": 9,
+         "type": "fractionWithPercentage",
+         "value": 9
+        }
+       },
+       "Assists": {
+        "key": "assists",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Blocked shots": {
+        "key": "blocked_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Chances created": {
+        "key": "chances_created",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Expected goals (xG)": {
+        "key": "expected_goals",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       },
+       "Expected goals on target (xGOT)": {
+        "key": "expected_goals_on_target_variant",
+        "stat": {
+         "type": "double",
+         "value": null
+        }
+       },
+       "Goals": {
+        "key": "goals",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Minutes played": {
+        "key": "minutes_played",
+        "stat": {
+         "type": "integer",
+         "value": 15
+        }
+       },
+       "Rating": {
+        "key": "rating_title",
+        "stat": {
+         "type": "double",
+         "value": 5.97
+        }
+       },
+       "Shotmap": {
+        "key": "",
+        "stat": {
+         "type": "boolean",
+         "value": 1
+        }
+       },
+       "Shots off target": {
+        "key": "ShotsOffTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Shots on target": {
+        "key": "ShotsOnTarget",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Total shots": {
+        "key": "total_shots",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "xG + xA": {
+        "key": "xg_and_xa",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       }
+      },
+      "title": "Top stats"
+     },
+     {
+      "key": "attack",
+      "stats": {
+       "Accurate crosses": {
+        "key": "accurate_crosses",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Dispossessed": {
+        "key": "dispossessed",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Successful dribbles": {
+        "key": "dribbles_succeeded",
+        "stat": {
+         "total": 1,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Touches": {
+        "key": "touches",
+        "stat": {
+         "type": "integer",
+         "value": 13
+        }
+       },
+       "Touches in opposition box": {
+        "key": "touches_opp_box",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "xG Non-penalty": {
+        "key": "expected_goals_non_penalty",
+        "stat": {
+         "type": "double",
+         "value": 0.03
+        }
+       }
+      },
+      "title": "Attack"
+     },
+     {
+      "key": "defense",
+      "stats": {
+       "Blocks": {
+        "key": "shot_blocks",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Clearances": {
+        "key": "clearances",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Defensive actions": {
+        "key": "defensive_actions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Dribbled past": {
+        "key": "dribbled_past",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Interceptions": {
+        "key": "interceptions",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Recoveries": {
+        "key": "recoveries",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       },
+       "Tackles": {
+        "key": "matchstats.headers.tackles",
+        "stat": {
+         "type": "integer",
+         "value": 0
+        }
+       }
+      },
+      "title": "Defense"
+     },
+     {
+      "key": "duels",
+      "stats": {
+       "Aerial duels won": {
+        "key": "aerials_won",
+        "stat": {
+         "total": 0,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Duels lost": {
+        "key": "duel_lost",
+        "stat": {
+         "type": "integer",
+         "value": 2
+        }
+       },
+       "Fouls committed": {
+        "key": "fouls",
+        "stat": {
+         "type": "integer",
+         "value": 1
+        }
+       },
+       "Ground duels won": {
+        "key": "ground_duels_won",
+        "stat": {
+         "total": 2,
+         "type": "fractionWithPercentage",
+         "value": 0
+        }
+       },
+       "Was fouled": {
+        "key": "was_fouled",
+        "stat": {
+         "type": "integer",
+         "value": null
+        }
+       }
+      },
+      "title": "Duels"
+     }
+    ]
+   }
+  ]
+ }
+}

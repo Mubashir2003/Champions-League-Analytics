@@ -1,0 +1,956 @@
+{
+ "stored_at": 1793976997.1948657,
+ "value": {
+  "payload": {
+   "match_id": "m_4WDCuM",
+   "periods": [
+    {
+     "period": "FirstHalf",
+     "shots": [
+      {
+       "id": "s_09YDEv",
+       "player": {
+        "id": "p_3gdecS",
+        "name": "John McGinn",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/d513c48a07b4f74df1182bcd6d142889583eaf22be0c649111fb5e77eb8be599.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 79.44,
+       "y": 32.55,
+       "expected_goals": 0.04,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 39.88,
+       "goal_crossed_z": 0.18,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 3,
+       "event_type": "Miss"
+      },
+      {
+       "id": "s_1JzPGq",
+       "player": {
+        "id": "p_3COnIt",
+        "name": "Ross Barkley",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/bed3a3d5bb9f7fa6a7caf3f3f012a11febfd1fc7dd3f68be21974be5933984ec.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 98.05,
+       "y": 34.69,
+       "expected_goals": 0.1,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 34.23,
+       "goal_crossed_z": 4.46,
+       "is_inside_box": true,
+       "shot_type": "Header",
+       "situation": "FromCorner",
+       "minute": 5,
+       "event_type": "Miss"
+      },
+      {
+       "id": "s_2H8Skm",
+       "player": {
+        "id": "p_3xRkyt",
+        "name": "Ibrahim Mbaye",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/1eefd5b3e216ef926f55ec60e0b7496f9482e2829d9a7eb47a3bb3fc16355abc.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 86.67,
+       "y": 50.17,
+       "expected_goals": 0.02,
+       "expected_goals_on_target": 0.03,
+       "is_on_target": true,
+       "goal_crossed_y": 33.08,
+       "goal_crossed_z": 0.45,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "FastBreak",
+       "minute": 7,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.58,
+       "blocked_y": 35.91,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_3z8WzV",
+       "player": {
+        "id": "p_4WMacA",
+        "name": "Johan Manzambi",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/f04f43a60c2fff8a756e79f91bcf86b70fdeac02a9f9919fcb30bbe8b9f43ba5.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 94.96,
+       "y": 39.21,
+       "expected_goals": 0.13,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 32.63,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 8,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 98.05,
+       "blocked_y": 37.58
+      },
+      {
+       "id": "s_2FlwYP",
+       "player": {
+        "id": "p_4WMacA",
+        "name": "Johan Manzambi",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/f04f43a60c2fff8a756e79f91bcf86b70fdeac02a9f9919fcb30bbe8b9f43ba5.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 94.96,
+       "y": 37.2,
+       "expected_goals": 0.11,
+       "expected_goals_on_target": 0.76,
+       "is_on_target": true,
+       "goal_crossed_y": 32.17,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "FromCorner",
+       "minute": 12,
+       "event_type": "Goal",
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_0xdL3q",
+       "player": {
+        "id": "p_1lvX71",
+        "name": "Oğuz Aydın",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/082521a64b1211f0f914484899037fbcfb1f2a1bdf2faafbe0b2b01914a4de25.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 83.16,
+       "y": 43.51,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 34.08,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 14,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 93.5,
+       "blocked_y": 39.29
+      },
+      {
+       "id": "s_3FP66g",
+       "player": {
+        "id": "p_1X4SzU",
+        "name": "Vedat Muriqi",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/963f55201ece3b99287990a1fa24e6ef28158a681f7ae0dc158bfd4e626c74b3.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 103.01,
+       "y": 40.55,
+       "expected_goals": 0.2,
+       "expected_goals_on_target": 0.31,
+       "is_on_target": true,
+       "goal_crossed_y": 34.46,
+       "goal_crossed_z": 0.94,
+       "is_inside_box": true,
+       "shot_type": "Header",
+       "situation": "FromCorner",
+       "minute": 15,
+       "event_type": "AttemptSaved",
+       "blocked_x": 104.43,
+       "blocked_y": 37.71,
+       "keeper": {
+        "id": "p_3YwFnk",
+        "name": "Zion Suzuki",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+       }
+      },
+      {
+       "id": "s_0mwMVv",
+       "player": {
+        "id": "p_1X4SzU",
+        "name": "Vedat Muriqi",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/963f55201ece3b99287990a1fa24e6ef28158a681f7ae0dc158bfd4e626c74b3.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 96.99,
+       "y": 34.69,
+       "expected_goals": 0.7,
+       "expected_goals_on_target": 0.47,
+       "is_on_target": true,
+       "goal_crossed_y": 34.99,
+       "goal_crossed_z": 0.24,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "FastBreak",
+       "minute": 17,
+       "event_type": "AttemptSaved",
+       "blocked_x": 99.11,
+       "blocked_y": 34.53,
+       "keeper": {
+        "id": "p_3YwFnk",
+        "name": "Zion Suzuki",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+       }
+      },
+      {
+       "id": "s_0pLBCV",
+       "player": {
+        "id": "p_2ASvp8",
+        "name": "Mason Greenwood",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/c4fe52581d5dd4ff782117db5c846685c2a7690d96fd7ec0560b8ec2920e8e76.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 86.67,
+       "y": 34.53,
+       "expected_goals": 0.11,
+       "expected_goals_on_target": 0.06,
+       "is_on_target": true,
+       "goal_crossed_y": 33.01,
+       "goal_crossed_z": 0.04,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "FastBreak",
+       "minute": 18,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.86,
+       "blocked_y": 33.7,
+       "keeper": {
+        "id": "p_3YwFnk",
+        "name": "Zion Suzuki",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+       }
+      },
+      {
+       "id": "s_4Mxl3m",
+       "player": {
+        "id": "p_0QgSKb",
+        "name": "Pau Torres",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/cbf9088b30624079156a740874a033a27ddd4a1c97a43f97ba8280891ae3191b.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 96.99,
+       "y": 35.07,
+       "expected_goals": 0.09,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 34.31,
+       "goal_crossed_z": 3.62,
+       "is_inside_box": true,
+       "shot_type": "Header",
+       "situation": "FromCorner",
+       "minute": 22,
+       "event_type": "Miss"
+      },
+      {
+       "id": "s_0706ht",
+       "player": {
+        "id": "p_3SVmRN",
+        "name": "İrfan Kahveci",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/9a4c16086db1b7a3731cc611ec9eee79a6a9cc20d97afefd7b2cdf4378718b08.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 91.7,
+       "y": 38.79,
+       "expected_goals": 0.13,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 34.15,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 25,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 95.25,
+       "blocked_y": 37.71
+      },
+      {
+       "id": "s_03SEE4",
+       "player": {
+        "id": "p_3giUjN",
+        "name": "Nicolas Jackson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 87.86,
+       "y": 32.4,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 38.62,
+       "goal_crossed_z": 0.44,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 30,
+       "event_type": "Miss",
+       "blocked_x": 104.53,
+       "blocked_y": 37.76,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_1Eznvt",
+       "player": {
+        "id": "p_3giUjN",
+        "name": "Nicolas Jackson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 87.96,
+       "y": 30.95,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0.31,
+       "is_on_target": true,
+       "goal_crossed_y": 36.9,
+       "goal_crossed_z": 0.61,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 31,
+       "event_type": "Goal",
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_3DBMjW",
+       "player": {
+        "id": "p_1lvX71",
+        "name": "Oğuz Aydın",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/082521a64b1211f0f914484899037fbcfb1f2a1bdf2faafbe0b2b01914a4de25.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 96.8,
+       "y": 46.24,
+       "expected_goals": 0.13,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 34.76,
+       "goal_crossed_z": 2.48,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 34,
+       "event_type": "Post"
+      },
+      {
+       "id": "s_3KwjFJ",
+       "player": {
+        "id": "p_3giUjN",
+        "name": "Nicolas Jackson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 91.5,
+       "y": 49.12,
+       "expected_goals": 0.03,
+       "expected_goals_on_target": 0.28,
+       "is_on_target": true,
+       "goal_crossed_y": 36.75,
+       "goal_crossed_z": 1.59,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 35,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.67,
+       "blocked_y": 36.06,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_1dbEbo",
+       "player": {
+        "id": "p_3SVmRN",
+        "name": "İrfan Kahveci",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/9a4c16086db1b7a3731cc611ec9eee79a6a9cc20d97afefd7b2cdf4378718b08.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 79.11,
+       "y": 22.6,
+       "expected_goals": 0.04,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 29.38,
+       "goal_crossed_z": 5.18,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "FreeKick",
+       "minute": 38,
+       "event_type": "Miss"
+      },
+      {
+       "id": "s_0Nnnc2",
+       "player": {
+        "id": "p_3giUjN",
+        "name": "Nicolas Jackson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 88.8,
+       "y": 24.14,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0.06,
+       "is_on_target": true,
+       "goal_crossed_y": 36.59,
+       "goal_crossed_z": 0.04,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 39,
+       "event_type": "Goal",
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_2n2u2O",
+       "player": {
+        "id": "p_4XqTah",
+        "name": "Matty Cash",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/da1a2ece68c29053e618f4669e175609a117928572726d91cffbc848fd61dff0.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 83.61,
+       "y": 21.83,
+       "expected_goals": 0.01,
+       "expected_goals_on_target": 0.06,
+       "is_on_target": true,
+       "goal_crossed_y": 36.14,
+       "goal_crossed_z": 0.77,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "SetPiece",
+       "minute": 43,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.67,
+       "blocked_y": 32.78,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_0DmClY",
+       "player": {
+        "id": "p_3xRkyt",
+        "name": "Ibrahim Mbaye",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/1eefd5b3e216ef926f55ec60e0b7496f9482e2829d9a7eb47a3bb3fc16355abc.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 89.6,
+       "y": 51.64,
+       "expected_goals": 0.02,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 34.23,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "FromCorner",
+       "minute": 45,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 91.8,
+       "blocked_y": 49.26,
+       "minute_added": 0
+      }
+     ]
+    },
+    {
+     "period": "SecondHalf",
+     "shots": [
+      {
+       "id": "s_05jT02",
+       "player": {
+        "id": "p_1uZf7y",
+        "name": "Milan Škriniar",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/bfb8c0130ba867d0343e92ecd6b4870db13ab024e5991e9efb9d65a880d1105b.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 97.67,
+       "y": 41.14,
+       "expected_goals": 0.02,
+       "expected_goals_on_target": 0.03,
+       "is_on_target": true,
+       "goal_crossed_y": 34.61,
+       "goal_crossed_z": 1.5,
+       "is_inside_box": true,
+       "shot_type": "OtherBodyParts",
+       "situation": "SetPiece",
+       "minute": 51,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.2,
+       "blocked_y": 36.06,
+       "keeper": {
+        "id": "p_3YwFnk",
+        "name": "Zion Suzuki",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+       }
+      },
+      {
+       "id": "s_02xeBj",
+       "player": {
+        "id": "p_3gdecS",
+        "name": "John McGinn",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/d513c48a07b4f74df1182bcd6d142889583eaf22be0c649111fb5e77eb8be599.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 87.96,
+       "y": 26.4,
+       "expected_goals": 0.12,
+       "expected_goals_on_target": 0.05,
+       "is_on_target": true,
+       "goal_crossed_y": 34.23,
+       "goal_crossed_z": 0.57,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "FastBreak",
+       "minute": 52,
+       "event_type": "AttemptSaved",
+       "blocked_x": 103.58,
+       "blocked_y": 32.47,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_2bc8IC",
+       "player": {
+        "id": "p_1lvX71",
+        "name": "Oğuz Aydın",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/082521a64b1211f0f914484899037fbcfb1f2a1bdf2faafbe0b2b01914a4de25.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 91.6,
+       "y": 46.17,
+       "expected_goals": 0.07,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 34.61,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 53,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 98.73,
+       "blocked_y": 40.22
+      },
+      {
+       "id": "s_462OBg",
+       "player": {
+        "id": "p_3xRkyt",
+        "name": "Ibrahim Mbaye",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/1eefd5b3e216ef926f55ec60e0b7496f9482e2829d9a7eb47a3bb3fc16355abc.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 100.92,
+       "y": 47.71,
+       "expected_goals": 0.04,
+       "expected_goals_on_target": 0.13,
+       "is_on_target": true,
+       "goal_crossed_y": 37.28,
+       "goal_crossed_z": 0.21,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 55,
+       "event_type": "AttemptSaved",
+       "blocked_x": 104.43,
+       "blocked_y": 37.43,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_2dPed5",
+       "player": {
+        "id": "p_4XqTah",
+        "name": "Matty Cash",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/da1a2ece68c29053e618f4669e175609a117928572726d91cffbc848fd61dff0.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 79.44,
+       "y": 17.76,
+       "expected_goals": 0.02,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 33.62,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "FromCorner",
+       "minute": 56,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 94.48,
+       "blocked_y": 26.4
+      },
+      {
+       "id": "s_1X98Mc",
+       "player": {
+        "id": "p_1lvX71",
+        "name": "Oğuz Aydın",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/082521a64b1211f0f914484899037fbcfb1f2a1bdf2faafbe0b2b01914a4de25.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 85.28,
+       "y": 44,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 28.71,
+       "goal_crossed_z": 4.71,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "FastBreak",
+       "minute": 57,
+       "event_type": "Miss"
+      },
+      {
+       "id": "s_3TM0tq",
+       "player": {
+        "id": "p_2ASvp8",
+        "name": "Mason Greenwood",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/c4fe52581d5dd4ff782117db5c846685c2a7690d96fd7ec0560b8ec2920e8e76.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 81.81,
+       "y": 19.45,
+       "expected_goals": 0.04,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 33.01,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "FreeKick",
+       "minute": 65,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 88.9,
+       "blocked_y": 23.37
+      },
+      {
+       "id": "s_3mka5s",
+       "player": {
+        "id": "p_3xRkyt",
+        "name": "Ibrahim Mbaye",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/1eefd5b3e216ef926f55ec60e0b7496f9482e2829d9a7eb47a3bb3fc16355abc.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 94.87,
+       "y": 41.71,
+       "expected_goals": 0.45,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 28.79,
+       "goal_crossed_z": 0.36,
+       "is_inside_box": true,
+       "shot_type": "LeftFoot",
+       "situation": "FastBreak",
+       "minute": 65,
+       "event_type": "Miss",
+       "blocked_x": 97.28,
+       "blocked_y": 37.95,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_2hsEjr",
+       "player": {
+        "id": "p_2ASvp8",
+        "name": "Mason Greenwood",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/c4fe52581d5dd4ff782117db5c846685c2a7690d96fd7ec0560b8ec2920e8e76.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 85.71,
+       "y": 24.07,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 33.92,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 66,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 89.2,
+       "blocked_y": 25.59
+      },
+      {
+       "id": "s_1nx9sh",
+       "player": {
+        "id": "p_3COnIt",
+        "name": "Ross Barkley",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/bed3a3d5bb9f7fa6a7caf3f3f012a11febfd1fc7dd3f68be21974be5933984ec.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 94,
+       "y": 34,
+       "expected_goals": 0.79,
+       "expected_goals_on_target": 0.87,
+       "is_on_target": true,
+       "goal_crossed_y": 36.97,
+       "goal_crossed_z": 0.16,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "Penalty",
+       "minute": 68,
+       "event_type": "Goal",
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_01fwly",
+       "player": {
+        "id": "p_3COnIt",
+        "name": "Ross Barkley",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/bed3a3d5bb9f7fa6a7caf3f3f012a11febfd1fc7dd3f68be21974be5933984ec.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 85.49,
+       "y": 39.38,
+       "expected_goals": 0.05,
+       "expected_goals_on_target": 0.28,
+       "is_on_target": true,
+       "goal_crossed_y": 31.79,
+       "goal_crossed_z": 0.24,
+       "is_inside_box": false,
+       "shot_type": "LeftFoot",
+       "situation": "RegularPlay",
+       "minute": 72,
+       "event_type": "Goal",
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      },
+      {
+       "id": "s_407k8q",
+       "player": {
+        "id": "p_3giUjN",
+        "name": "Nicolas Jackson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/7beff16265daaa054beae366aa55851b4fe81e2f9f8a78663a7b3507f92fdfe7.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 87.86,
+       "y": 43.58,
+       "expected_goals": 0.06,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 32.7,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "FastBreak",
+       "minute": 76,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 90.4,
+       "blocked_y": 42.76
+      },
+      {
+       "id": "s_3PE6Sk",
+       "player": {
+        "id": "p_46OAhf",
+        "name": "Dorgeles Nene",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/cbaa366eae591806796c96043094edba8b1cda5d8968bdcdda4df1e7ed5b79e0.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 97.96,
+       "y": 30.28,
+       "expected_goals": 0.27,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 45.4,
+       "goal_crossed_z": 0.71,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 83,
+       "event_type": "Miss",
+       "blocked_x": 99.02,
+       "blocked_y": 32.47
+      },
+      {
+       "id": "s_0MhLuu",
+       "player": {
+        "id": "p_3025oc",
+        "name": "Bartuğ Elmaz",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/ed0b5236a42de1b4bc0373d71c9304583a54a07bc876f2b8d0fde818ead0362f.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 82.6,
+       "y": 25.07,
+       "expected_goals": 0.03,
+       "expected_goals_on_target": 0,
+       "is_on_target": true,
+       "goal_crossed_y": 34.23,
+       "goal_crossed_z": 1.22,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 84,
+       "event_type": "AttemptSaved",
+       "is_blocked": true,
+       "blocked_x": 90.5,
+       "blocked_y": 27.95
+      },
+      {
+       "id": "s_2dAZSq",
+       "player": {
+        "id": "p_1lvX71",
+        "name": "Oğuz Aydın",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/082521a64b1211f0f914484899037fbcfb1f2a1bdf2faafbe0b2b01914a4de25.webp"
+       },
+       "team_id": "t_2wJJY2",
+       "x": 82.6,
+       "y": 50.8,
+       "expected_goals": 0.02,
+       "expected_goals_on_target": 0,
+       "is_on_target": false,
+       "goal_crossed_y": 34.23,
+       "goal_crossed_z": 2.89,
+       "is_inside_box": false,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 85,
+       "event_type": "Miss",
+       "blocked_x": 100.83,
+       "blocked_y": 37.95,
+       "keeper": {
+        "id": "p_3YwFnk",
+        "name": "Zion Suzuki",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/0fe3fe9b5a4a05e7373e4ee4124e7eed19df8118ea0bce89947501af49f8f8c9.webp"
+       }
+      },
+      {
+       "id": "s_3paElB",
+       "player": {
+        "id": "p_3uKlNG",
+        "name": "Tammy Abraham",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/dafb103e93792f3eeea10f2202d0342bb30db9bdc76fe1e2327c4087ae35a2fe.webp"
+       },
+       "team_id": "t_4RqKpo",
+       "x": 102.63,
+       "y": 36.82,
+       "expected_goals": 0.84,
+       "expected_goals_on_target": 1,
+       "is_on_target": true,
+       "goal_crossed_y": 35.75,
+       "goal_crossed_z": 1.5,
+       "is_inside_box": true,
+       "shot_type": "RightFoot",
+       "situation": "RegularPlay",
+       "minute": 90,
+       "event_type": "Goal",
+       "minute_added": 0,
+       "keeper": {
+        "id": "p_0aS0dY",
+        "name": "Ederson",
+        "position_id": null,
+        "image_url": "https://cdn.pitchapi.dev/images/players/5a35912f12c268f466779269625ec89d3b10255b29d6f69ebf5c1d14e35a3b51.webp"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

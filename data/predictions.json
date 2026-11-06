@@ -1,0 +1,1805 @@
+{
+ "season": "2026/2027",
+ "predictions": {
+  "m_4SYMzr": {
+   "home_win": 0.528071,
+   "draw": 0.195956,
+   "away_win": 0.275973,
+   "percent": {
+    "home": 53,
+    "draw": 19,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.36,
+    "away": 1.693
+   },
+   "ratings": {
+    "home": 1505.4,
+    "away": 1540.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0yKeRt": {
+   "home_win": 0.52901,
+   "draw": 0.195802,
+   "away_win": 0.275188,
+   "percent": {
+    "home": 53,
+    "draw": 20,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.362,
+    "away": 1.691
+   },
+   "ratings": {
+    "home": 1468.7,
+    "away": 1502.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Bodø/Glimt",
+   "away": "LASK",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0c78zD": {
+   "home_win": 0.649113,
+   "draw": 0.168332,
+   "away_win": 0.182555,
+   "percent": {
+    "home": 65,
+    "draw": 17,
+    "away": 18
+   },
+   "expected_goals": {
+    "home": 2.754,
+    "away": 1.45
+   },
+   "ratings": {
+    "home": 1546.5,
+    "away": 1447.3
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Manchester City",
+   "away": "Napoli",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2cwDyu": {
+   "home_win": 0.58189,
+   "draw": 0.185583,
+   "away_win": 0.232527,
+   "percent": {
+    "home": 58,
+    "draw": 19,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.525,
+    "away": 1.582
+   },
+   "ratings": {
+    "home": 1563.4,
+    "away": 1539.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_38M4aC": {
+   "home_win": 0.435427,
+   "draw": 0.206052,
+   "away_win": 0.358521,
+   "percent": {
+    "home": 43,
+    "draw": 21,
+    "away": 36
+   },
+   "expected_goals": {
+    "home": 2.101,
+    "away": 1.901
+   },
+   "ratings": {
+    "home": 1397.5,
+    "away": 1533.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Slovan Bratislava",
+   "away": "Real Betis",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_13c8QW": {
+   "home_win": 0.578793,
+   "draw": 0.186265,
+   "away_win": 0.234943,
+   "percent": {
+    "home": 58,
+    "draw": 19,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.515,
+    "away": 1.588
+   },
+   "ratings": {
+    "home": 1453.1,
+    "away": 1432.8
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "RB Leipzig",
+   "away": "Lens",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3H4WRT": {
+   "home_win": 0.648883,
+   "draw": 0.168399,
+   "away_win": 0.182718,
+   "percent": {
+    "home": 65,
+    "draw": 17,
+    "away": 18
+   },
+   "expected_goals": {
+    "home": 2.753,
+    "away": 1.451
+   },
+   "ratings": {
+    "home": 1578.5,
+    "away": 1479.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3llrZc": {
+   "home_win": 0.663116,
+   "draw": 0.164159,
+   "away_win": 0.172725,
+   "percent": {
+    "home": 66,
+    "draw": 17,
+    "away": 17
+   },
+   "expected_goals": {
+    "home": 2.806,
+    "away": 1.423
+   },
+   "ratings": {
+    "home": 1566.0,
+    "away": 1450.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Como",
+   "away": "AEK Athens",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4J6bPl": {
+   "home_win": 0.545044,
+   "draw": 0.193026,
+   "away_win": 0.26193,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.41,
+    "away": 1.657
+   },
+   "ratings": {
+    "home": 1446.0,
+    "away": 1462.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Feyenoord",
+   "away": "FC Porto",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0n69Si": {
+   "home_win": 0.543377,
+   "draw": 0.193328,
+   "away_win": 0.263295,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.405,
+    "away": 1.661
+   },
+   "ratings": {
+    "home": 1439.1,
+    "away": 1457.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Slavia Prague",
+   "away": "Villarreal",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_18IfVI": {
+   "home_win": 0.454595,
+   "draw": 0.204818,
+   "away_win": 0.340587,
+   "percent": {
+    "home": 45,
+    "draw": 21,
+    "away": 34
+   },
+   "expected_goals": {
+    "home": 2.152,
+    "away": 1.856
+   },
+   "ratings": {
+    "home": 1446.6,
+    "away": 1561.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Sabah FK",
+   "away": "Barcelona",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_36394c": {
+   "home_win": 0.672117,
+   "draw": 0.161373,
+   "away_win": 0.16651,
+   "percent": {
+    "home": 67,
+    "draw": 16,
+    "away": 17
+   },
+   "expected_goals": {
+    "home": 2.841,
+    "away": 1.406
+   },
+   "ratings": {
+    "home": 1610.2,
+    "away": 1484.2
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Paris Saint-Germain",
+   "away": "Roma",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0vHscK": {
+   "home_win": 0.603447,
+   "draw": 0.180559,
+   "away_win": 0.215994,
+   "percent": {
+    "home": 60,
+    "draw": 18,
+    "away": 22
+   },
+   "expected_goals": {
+    "home": 2.595,
+    "away": 1.539
+   },
+   "ratings": {
+    "home": 1544.1,
+    "away": 1496.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Sporting CP",
+   "away": "Manchester United",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0nnJoD": {
+   "home_win": 0.445178,
+   "draw": 0.205483,
+   "away_win": 0.349339,
+   "percent": {
+    "home": 44,
+    "draw": 21,
+    "away": 35
+   },
+   "expected_goals": {
+    "home": 2.127,
+    "away": 1.878
+   },
+   "ratings": {
+    "home": 1429.9,
+    "away": 1555.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Lille",
+   "away": "Bayern München",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_29gc42": {
+   "home_win": 0.55321,
+   "draw": 0.191503,
+   "away_win": 0.255287,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.435,
+    "away": 1.64
+   },
+   "ratings": {
+    "home": 1512.8,
+    "away": 1520.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Inter",
+   "away": "VfB Stuttgart",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3FjwuH": {
+   "home_win": 0.551095,
+   "draw": 0.191905,
+   "away_win": 0.257001,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.429,
+    "away": 1.645
+   },
+   "ratings": {
+    "home": 1481.1,
+    "away": 1491.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahçe",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1WLVGt": {
+   "home_win": 0.55641,
+   "draw": 0.190886,
+   "away_win": 0.252704,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.445,
+    "away": 1.634
+   },
+   "ratings": {
+    "home": 1482.9,
+    "away": 1487.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Atlético Madrid",
+   "away": "Viking",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2bTWR8": {
+   "home_win": 0.566583,
+   "draw": 0.188852,
+   "away_win": 0.244565,
+   "percent": {
+    "home": 57,
+    "draw": 19,
+    "away": 24
+   },
+   "expected_goals": {
+    "home": 2.476,
+    "away": 1.613
+   },
+   "ratings": {
+    "home": 1546.3,
+    "away": 1539.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-11-25T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4D9brA": {
+   "home_win": 0.597646,
+   "draw": 0.181959,
+   "away_win": 0.220395,
+   "percent": {
+    "home": 60,
+    "draw": 18,
+    "away": 22
+   },
+   "expected_goals": {
+    "home": 2.576,
+    "away": 1.551
+   },
+   "ratings": {
+    "home": 1487.1,
+    "away": 1446.0
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Viking",
+   "away": "Feyenoord",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2F47L8": {
+   "home_win": 0.570285,
+   "draw": 0.188085,
+   "away_win": 0.24163,
+   "percent": {
+    "home": 57,
+    "draw": 19,
+    "away": 24
+   },
+   "expected_goals": {
+    "home": 2.488,
+    "away": 1.606
+   },
+   "ratings": {
+    "home": 1457.5,
+    "away": 1446.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Villarreal",
+   "away": "Sabah FK",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0xLpIb": {
+   "home_win": 0.505091,
+   "draw": 0.199407,
+   "away_win": 0.295502,
+   "percent": {
+    "home": 50,
+    "draw": 20,
+    "away": 30
+   },
+   "expected_goals": {
+    "home": 2.293,
+    "away": 1.742
+   },
+   "ratings": {
+    "home": 1484.2,
+    "away": 1544.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Roma",
+   "away": "Sporting CP",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3mWpj0": {
+   "home_win": 0.663552,
+   "draw": 0.164026,
+   "away_win": 0.172422,
+   "percent": {
+    "home": 66,
+    "draw": 17,
+    "away": 17
+   },
+   "expected_goals": {
+    "home": 2.808,
+    "away": 1.423
+   },
+   "ratings": {
+    "home": 1555.1,
+    "away": 1439.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Bayern München",
+   "away": "Slavia Prague",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_19yVWq": {
+   "home_win": 0.573916,
+   "draw": 0.187317,
+   "away_win": 0.238766,
+   "percent": {
+    "home": 57,
+    "draw": 19,
+    "away": 24
+   },
+   "expected_goals": {
+    "home": 2.499,
+    "away": 1.598
+   },
+   "ratings": {
+    "home": 1561.4,
+    "away": 1546.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Barcelona",
+   "away": "Manchester City",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3uWxjs": {
+   "home_win": 0.509776,
+   "draw": 0.198753,
+   "away_win": 0.291471,
+   "percent": {
+    "home": 51,
+    "draw": 20,
+    "away": 29
+   },
+   "expected_goals": {
+    "home": 2.306,
+    "away": 1.732
+   },
+   "ratings": {
+    "home": 1450.5,
+    "away": 1505.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "AEK Athens",
+   "away": "Galatasaray",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0OcGiW": {
+   "home_win": 0.496023,
+   "draw": 0.200602,
+   "away_win": 0.303374,
+   "percent": {
+    "home": 50,
+    "draw": 20,
+    "away": 30
+   },
+   "expected_goals": {
+    "home": 2.267,
+    "away": 1.762
+   },
+   "ratings": {
+    "home": 1540.4,
+    "away": 1610.2
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Aston Villa",
+   "away": "Paris Saint-Germain",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1JLpYl": {
+   "home_win": 0.469122,
+   "draw": 0.203576,
+   "away_win": 0.327302,
+   "percent": {
+    "home": 47,
+    "draw": 20,
+    "away": 33
+   },
+   "expected_goals": {
+    "home": 2.192,
+    "away": 1.822
+   },
+   "ratings": {
+    "home": 1447.3,
+    "away": 1546.3
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Napoli",
+   "away": "Club Brugge",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1yQRSa": {
+   "home_win": 0.599764,
+   "draw": 0.181452,
+   "away_win": 0.218785,
+   "percent": {
+    "home": 60,
+    "draw": 18,
+    "away": 22
+   },
+   "expected_goals": {
+    "home": 2.583,
+    "away": 1.547
+   },
+   "ratings": {
+    "home": 1496.6,
+    "away": 1453.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Manchester United",
+   "away": "RB Leipzig",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-08T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1bwCon": {
+   "home_win": 0.483322,
+   "draw": 0.202114,
+   "away_win": 0.314564,
+   "percent": {
+    "home": 48,
+    "draw": 20,
+    "away": 32
+   },
+   "expected_goals": {
+    "home": 2.231,
+    "away": 1.79
+   },
+   "ratings": {
+    "home": 1397.5,
+    "away": 1481.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Slovan Bratislava",
+   "away": "Shakhtar Donetsk",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2Hvwlr": {
+   "home_win": 0.530353,
+   "draw": 0.195581,
+   "away_win": 0.274066,
+   "percent": {
+    "home": 53,
+    "draw": 20,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.366,
+    "away": 1.688
+   },
+   "ratings": {
+    "home": 1533.4,
+    "away": 1566.0
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Real Betis",
+   "away": "Como",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2ATpSk": {
+   "home_win": 0.546392,
+   "draw": 0.19278,
+   "away_win": 0.260829,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.414,
+    "away": 1.654
+   },
+   "ratings": {
+    "home": 1563.4,
+    "away": 1578.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Arsenal",
+   "away": "Real Madrid",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3tud4E": {
+   "home_win": 0.584744,
+   "draw": 0.184946,
+   "away_win": 0.23031,
+   "percent": {
+    "home": 58,
+    "draw": 19,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.534,
+    "away": 1.576
+   },
+   "ratings": {
+    "home": 1539.7,
+    "away": 1512.8
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Borussia Dortmund",
+   "away": "Inter",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_20P8vs": {
+   "home_win": 0.570905,
+   "draw": 0.187955,
+   "away_win": 0.241141,
+   "percent": {
+    "home": 57,
+    "draw": 19,
+    "away": 24
+   },
+   "expected_goals": {
+    "home": 2.49,
+    "away": 1.604
+   },
+   "ratings": {
+    "home": 1502.7,
+    "away": 1491.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "LASK",
+   "away": "Fenerbahçe",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3iox8a": {
+   "home_win": 0.527314,
+   "draw": 0.196079,
+   "away_win": 0.276607,
+   "percent": {
+    "home": 53,
+    "draw": 19,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.357,
+    "away": 1.694
+   },
+   "ratings": {
+    "home": 1432.8,
+    "away": 1468.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Lens",
+   "away": "Bodø/Glimt",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2zlOGw": {
+   "home_win": 0.629436,
+   "draw": 0.173861,
+   "away_win": 0.196703,
+   "percent": {
+    "home": 63,
+    "draw": 17,
+    "away": 20
+   },
+   "expected_goals": {
+    "home": 2.684,
+    "away": 1.488
+   },
+   "ratings": {
+    "home": 1539.4,
+    "away": 1462.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Liverpool",
+   "away": "FC Porto",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1NrXcr": {
+   "home_win": 0.641659,
+   "draw": 0.170473,
+   "away_win": 0.187868,
+   "percent": {
+    "home": 64,
+    "draw": 17,
+    "away": 19
+   },
+   "expected_goals": {
+    "home": 2.727,
+    "away": 1.465
+   },
+   "ratings": {
+    "home": 1520.6,
+    "away": 1429.9
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "VfB Stuttgart",
+   "away": "Lille",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2fFtXy": {
+   "home_win": 0.557201,
+   "draw": 0.190732,
+   "away_win": 0.252067,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.447,
+    "away": 1.632
+   },
+   "ratings": {
+    "home": 1479.6,
+    "away": 1482.9
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "PSV Eindhoven",
+   "away": "Atlético Madrid",
+   "matches_in_model": 72,
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_32vbM6": {
+   "home_win": 0.547226,
+   "draw": 0.192626,
+   "away_win": 0.260148,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.417,
+    "away": 1.653
+   },
+   "ratings": {
+    "home": 1468.7,
+    "away": 1482.9
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Bodø/Glimt",
+   "away": "Atlético Madrid",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2PIcJh": {
+   "home_win": 0.613991,
+   "draw": 0.177926,
+   "away_win": 0.208084,
+   "percent": {
+    "home": 61,
+    "draw": 18,
+    "away": 21
+   },
+   "expected_goals": {
+    "home": 2.631,
+    "away": 1.518
+   },
+   "ratings": {
+    "home": 1505.4,
+    "away": 1446.0
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Galatasaray",
+   "away": "Feyenoord",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_27ixep": {
+   "home_win": 0.536661,
+   "draw": 0.194513,
+   "away_win": 0.268826,
+   "percent": {
+    "home": 54,
+    "draw": 19,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.385,
+    "away": 1.675
+   },
+   "ratings": {
+    "home": 1520.6,
+    "away": 1546.3
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "VfB Stuttgart",
+   "away": "Club Brugge",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2XixHJ": {
+   "home_win": 0.560952,
+   "draw": 0.189992,
+   "away_win": 0.249056,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.459,
+    "away": 1.625
+   },
+   "ratings": {
+    "home": 1540.4,
+    "away": 1539.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Aston Villa",
+   "away": "Borussia Dortmund",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3O7ffZ": {
+   "home_win": 0.535904,
+   "draw": 0.194644,
+   "away_win": 0.269452,
+   "percent": {
+    "home": 54,
+    "draw": 19,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.383,
+    "away": 1.676
+   },
+   "ratings": {
+    "home": 1512.8,
+    "away": 1539.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Inter",
+   "away": "Liverpool",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0d2Yda": {
+   "home_win": 0.589773,
+   "draw": 0.183802,
+   "away_win": 0.226425,
+   "percent": {
+    "home": 59,
+    "draw": 18,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.55,
+    "away": 1.566
+   },
+   "ratings": {
+    "home": 1429.9,
+    "away": 1397.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Lille",
+   "away": "Slovan Bratislava",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2647cx": {
+   "home_win": 0.628606,
+   "draw": 0.174086,
+   "away_win": 0.197308,
+   "percent": {
+    "home": 63,
+    "draw": 17,
+    "away": 20
+   },
+   "expected_goals": {
+    "home": 2.681,
+    "away": 1.49
+   },
+   "ratings": {
+    "home": 1578.5,
+    "away": 1502.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Real Madrid",
+   "away": "LASK",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0AY083": {
+   "home_win": 0.581759,
+   "draw": 0.185612,
+   "away_win": 0.232629,
+   "percent": {
+    "home": 58,
+    "draw": 19,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.524,
+    "away": 1.582
+   },
+   "ratings": {
+    "home": 1462.6,
+    "away": 1439.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "FC Porto",
+   "away": "Slavia Prague",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3cJw8j": {
+   "home_win": 0.529325,
+   "draw": 0.195751,
+   "away_win": 0.274924,
+   "percent": {
+    "home": 53,
+    "draw": 20,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.363,
+    "away": 1.69
+   },
+   "ratings": {
+    "home": 1450.5,
+    "away": 1484.2
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "AEK Athens",
+   "away": "Roma",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-19T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_0vJ1bS": {
+   "home_win": 0.590846,
+   "draw": 0.183555,
+   "away_win": 0.225599,
+   "percent": {
+    "home": 59,
+    "draw": 18,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.554,
+    "away": 1.564
+   },
+   "ratings": {
+    "home": 1491.1,
+    "away": 1457.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Fenerbahçe",
+   "away": "Villarreal",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2UzJDM": {
+   "home_win": 0.559633,
+   "draw": 0.190254,
+   "away_win": 0.250113,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.455,
+    "away": 1.627
+   },
+   "ratings": {
+    "home": 1446.6,
+    "away": 1447.3
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Sabah FK",
+   "away": "Napoli",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T17:45:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3WTJRt": {
+   "home_win": 0.534599,
+   "draw": 0.194867,
+   "away_win": 0.270534,
+   "percent": {
+    "home": 53,
+    "draw": 20,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.379,
+    "away": 1.679
+   },
+   "ratings": {
+    "home": 1453.1,
+    "away": 1481.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "RB Leipzig",
+   "away": "Shakhtar Donetsk",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4dlLZw": {
+   "home_win": 0.567216,
+   "draw": 0.188722,
+   "away_win": 0.244062,
+   "percent": {
+    "home": 57,
+    "draw": 19,
+    "away": 24
+   },
+   "expected_goals": {
+    "home": 2.478,
+    "away": 1.612
+   },
+   "ratings": {
+    "home": 1487.1,
+    "away": 1479.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Viking",
+   "away": "PSV Eindhoven",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3H4dfY": {
+   "home_win": 0.54442,
+   "draw": 0.193139,
+   "away_win": 0.26244,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.408,
+    "away": 1.659
+   },
+   "ratings": {
+    "home": 1544.1,
+    "away": 1561.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Sporting CP",
+   "away": "Barcelona",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2hIl9Z": {
+   "home_win": 0.519586,
+   "draw": 0.1973,
+   "away_win": 0.283114,
+   "percent": {
+    "home": 52,
+    "draw": 20,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.335,
+    "away": 1.711
+   },
+   "ratings": {
+    "home": 1566.0,
+    "away": 1610.2
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Como",
+   "away": "Paris Saint-Germain",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4PGQWl": {
+   "home_win": 0.455685,
+   "draw": 0.204734,
+   "away_win": 0.339581,
+   "percent": {
+    "home": 46,
+    "draw": 20,
+    "away": 34
+   },
+   "expected_goals": {
+    "home": 2.155,
+    "away": 1.853
+   },
+   "ratings": {
+    "home": 1432.8,
+    "away": 1546.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Lens",
+   "away": "Manchester City",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1B76q0": {
+   "home_win": 0.506445,
+   "draw": 0.199221,
+   "away_win": 0.294334,
+   "percent": {
+    "home": 51,
+    "draw": 20,
+    "away": 29
+   },
+   "expected_goals": {
+    "home": 2.297,
+    "away": 1.739
+   },
+   "ratings": {
+    "home": 1496.6,
+    "away": 1555.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Manchester United",
+   "away": "Bayern München",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4RkdQq": {
+   "home_win": 0.53273,
+   "draw": 0.195184,
+   "away_win": 0.272086,
+   "percent": {
+    "home": 53,
+    "draw": 20,
+    "away": 27
+   },
+   "expected_goals": {
+    "home": 2.373,
+    "away": 1.683
+   },
+   "ratings": {
+    "home": 1533.4,
+    "away": 1563.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Real Betis",
+   "away": "Arsenal",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2G1xXt": {
+   "home_win": 0.522585,
+   "draw": 0.196835,
+   "away_win": 0.280581,
+   "percent": {
+    "home": 52,
+    "draw": 20,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.344,
+    "away": 1.704
+   },
+   "ratings": {
+    "home": 1479.6,
+    "away": 1520.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "PSV Eindhoven",
+   "away": "VfB Stuttgart",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1xeIqU": {
+   "home_win": 0.65397,
+   "draw": 0.166907,
+   "away_win": 0.179123,
+   "percent": {
+    "home": 65,
+    "draw": 17,
+    "away": 18
+   },
+   "expected_goals": {
+    "home": 2.772,
+    "away": 1.441
+   },
+   "ratings": {
+    "home": 1610.2,
+    "away": 1505.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Paris Saint-Germain",
+   "away": "Galatasaray",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_28wmHy": {
+   "home_win": 0.655463,
+   "draw": 0.166464,
+   "away_win": 0.178073,
+   "percent": {
+    "home": 65,
+    "draw": 17,
+    "away": 18
+   },
+   "expected_goals": {
+    "home": 2.778,
+    "away": 1.438
+   },
+   "ratings": {
+    "home": 1539.4,
+    "away": 1432.8
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Liverpool",
+   "away": "Lens",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1WnewK": {
+   "home_win": 0.596711,
+   "draw": 0.182181,
+   "away_win": 0.221108,
+   "percent": {
+    "home": 60,
+    "draw": 18,
+    "away": 22
+   },
+   "expected_goals": {
+    "home": 2.573,
+    "away": 1.553
+   },
+   "ratings": {
+    "home": 1502.7,
+    "away": 1462.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "LASK",
+   "away": "FC Porto",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_3wpwoH": {
+   "home_win": 0.553795,
+   "draw": 0.191391,
+   "away_win": 0.254814,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.437,
+    "away": 1.639
+   },
+   "ratings": {
+    "home": 1446.0,
+    "away": 1453.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Feyenoord",
+   "away": "RB Leipzig",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_18Oylp": {
+   "home_win": 0.63018,
+   "draw": 0.17366,
+   "away_win": 0.196161,
+   "percent": {
+    "home": 63,
+    "draw": 17,
+    "away": 20
+   },
+   "expected_goals": {
+    "home": 2.686,
+    "away": 1.487
+   },
+   "ratings": {
+    "home": 1546.3,
+    "away": 1468.7
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Club Brugge",
+   "away": "Bodø/Glimt",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_05ErnL": {
+   "home_win": 0.580053,
+   "draw": 0.185989,
+   "away_win": 0.233959,
+   "percent": {
+    "home": 58,
+    "draw": 19,
+    "away": 23
+   },
+   "expected_goals": {
+    "home": 2.519,
+    "away": 1.586
+   },
+   "ratings": {
+    "home": 1555.1,
+    "away": 1533.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Bayern München",
+   "away": "Real Betis",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_43knut": {
+   "home_win": 0.664273,
+   "draw": 0.163806,
+   "away_win": 0.171922,
+   "percent": {
+    "home": 67,
+    "draw": 16,
+    "away": 17
+   },
+   "expected_goals": {
+    "home": 2.811,
+    "away": 1.421
+   },
+   "ratings": {
+    "home": 1563.4,
+    "away": 1446.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Arsenal",
+   "away": "Sabah FK",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_1XGmD3": {
+   "home_win": 0.640371,
+   "draw": 0.170837,
+   "away_win": 0.188792,
+   "percent": {
+    "home": 64,
+    "draw": 17,
+    "away": 19
+   },
+   "expected_goals": {
+    "home": 2.723,
+    "away": 1.467
+   },
+   "ratings": {
+    "home": 1539.7,
+    "away": 1450.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Borussia Dortmund",
+   "away": "AEK Athens",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4Dpb1t": {
+   "home_win": 0.562435,
+   "draw": 0.189695,
+   "away_win": 0.24787,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.464,
+    "away": 1.621
+   },
+   "ratings": {
+    "home": 1546.5,
+    "away": 1544.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Manchester City",
+   "away": "Sporting CP",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_4Nzqyq": {
+   "home_win": 0.466992,
+   "draw": 0.203775,
+   "away_win": 0.329234,
+   "percent": {
+    "home": 47,
+    "draw": 20,
+    "away": 33
+   },
+   "expected_goals": {
+    "home": 2.186,
+    "away": 1.827
+   },
+   "ratings": {
+    "home": 1439.1,
+    "away": 1540.4
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Slavia Prague",
+   "away": "Aston Villa",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2GgUDP": {
+   "home_win": 0.556122,
+   "draw": 0.190942,
+   "away_win": 0.252936,
+   "percent": {
+    "home": 56,
+    "draw": 19,
+    "away": 25
+   },
+   "expected_goals": {
+    "home": 2.444,
+    "away": 1.634
+   },
+   "ratings": {
+    "home": 1561.4,
+    "away": 1566.0
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Barcelona",
+   "away": "Como",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_13ZTgQ": {
+   "home_win": 0.552795,
+   "draw": 0.191582,
+   "away_win": 0.255623,
+   "percent": {
+    "home": 55,
+    "draw": 19,
+    "away": 26
+   },
+   "expected_goals": {
+    "home": 2.434,
+    "away": 1.641
+   },
+   "ratings": {
+    "home": 1482.9,
+    "away": 1491.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Atlético Madrid",
+   "away": "Fenerbahçe",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_243gm8": {
+   "home_win": 0.524365,
+   "draw": 0.196553,
+   "away_win": 0.279082,
+   "percent": {
+    "home": 52,
+    "draw": 20,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.349,
+    "away": 1.701
+   },
+   "ratings": {
+    "home": 1457.5,
+    "away": 1496.6
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Villarreal",
+   "away": "Manchester United",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_138eTy": {
+   "home_win": 0.523614,
+   "draw": 0.196672,
+   "away_win": 0.279714,
+   "percent": {
+    "home": 52,
+    "draw": 20,
+    "away": 28
+   },
+   "expected_goals": {
+    "home": 2.347,
+    "away": 1.702
+   },
+   "ratings": {
+    "home": 1447.3,
+    "away": 1487.1
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Napoli",
+   "away": "Viking",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2qJKNN": {
+   "home_win": 0.454153,
+   "draw": 0.204852,
+   "away_win": 0.340995,
+   "percent": {
+    "home": 45,
+    "draw": 21,
+    "away": 34
+   },
+   "expected_goals": {
+    "home": 2.151,
+    "away": 1.857
+   },
+   "ratings": {
+    "home": 1397.5,
+    "away": 1512.8
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Slovan Bratislava",
+   "away": "Inter",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2wdzd7": {
+   "home_win": 0.470554,
+   "draw": 0.20344,
+   "away_win": 0.326006,
+   "percent": {
+    "home": 47,
+    "draw": 20,
+    "away": 33
+   },
+   "expected_goals": {
+    "home": 2.196,
+    "away": 1.819
+   },
+   "ratings": {
+    "home": 1481.1,
+    "away": 1578.5
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Shakhtar Donetsk",
+   "away": "Real Madrid",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  },
+  "m_2wOxKW": {
+   "home_win": 0.609474,
+   "draw": 0.179068,
+   "away_win": 0.211458,
+   "percent": {
+    "home": 61,
+    "draw": 18,
+    "away": 21
+   },
+   "expected_goals": {
+    "home": 2.615,
+    "away": 1.527
+   },
+   "ratings": {
+    "home": 1484.2,
+    "away": 1429.9
+   },
+   "model_version": "elo-poisson-1.0",
+   "home": "Roma",
+   "away": "Lille",
+   "matches_in_model": 72,
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "issued_at": "2026-11-06T15:03:41.229350Z",
+   "frozen": false
+  }
+ }
+}

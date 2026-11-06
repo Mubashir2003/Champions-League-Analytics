@@ -1,0 +1,33 @@
+{
+ "stored_at": 1793977364.4199238,
+ "value": {
+  "payload": {
+   "id": "m_10Z35D",
+   "league": {
+    "id": "l_0bfbkO",
+    "name": "Champions League",
+    "image_url": "https://cdn.pitchapi.dev/images/leagues/b1d686d355832acff3032f4b9ee3cf885bf81879dac40c68e6ad033b695c1210.webp"
+   },
+   "season": "2026/2027",
+   "home_team": {
+    "id": "t_38NVJO",
+    "name": "Lens",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/d7424c5e0e5cb6adc67ed5a1119d16f497a63f31ca406127d9563afc29e59d11.webp"
+   },
+   "away_team": {
+    "id": "t_0oXTvZ",
+    "name": "Como",
+    "image_url": "https://cdn.pitchapi.dev/images/teams/35f069058222c070820cbf97102be4379a619b2c9892b41f0ee6c4d1920bdec9.webp"
+   },
+   "date": "2026-11-04",
+   "time_utc": "2026-11-04T20:00:00Z",
+   "status": "finished",
+   "score_home": 1,
+   "score_away": 9,
+   "round_name": "4",
+   "has_playoff": false,
+   "referee": "Rohit Saggi",
+   "stadium": "Stade Bollaert-Delelis"
+  }
+ }
+}
