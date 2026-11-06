@@ -1,4 +1,4 @@
-# UCL Analytics
+# ⚽ UCL Analytics 🏆
 
 A fan dashboard for the **UEFA Champions League 2026/2027** season: fixtures, results, a live-calculated league-phase table, match intelligence with Key Players, and compact Elo + Poisson win/draw/loss estimates.
 
@@ -11,14 +11,14 @@ Only 2026/2027 data is ever requested, stored or shown. If the providers have no
 
 ---
 
-## 1. Requirements
+## 1. Requirements 📝
 
 - Python **3.10 or newer** (3.11+ recommended)
 - A PitchAPI key — https://pitchapi.dev/
 - A StrikerAPI key — https://strikerapi.com/docs (free accounts get 500 credits a month)
 - Internet access from the machine running the backend
 
-## 2. Project structure
+## 2. Project structure 📁
 
 ```text
 ucl-analytics/
@@ -56,7 +56,7 @@ ucl-analytics/
 └── README.md
 ```
 
-## 3. Setup (Windows PowerShell)
+## 3. Setup (Windows PowerShell) ⚙️
 
 ```powershell
 cd ucl-analytics
@@ -85,7 +85,7 @@ Always start uvicorn from the **project root** (the folder containing `backend/`
 - Dashboard: http://127.0.0.1:8000
 - API docs (Swagger): http://127.0.0.1:8000/docs
 
-## 4. API key configuration
+## 4. API key configuration 🔑
 
 `.env` (never commit it — it is in `.gitignore`):
 
@@ -98,7 +98,7 @@ STRIKERAPI_BASE_URL=https://mcp.strikerapi.com/v1
 
 Keys are read only by the backend. The browser talks exclusively to this server's `/api/*` routes, and no endpoint returns a key.
 
-## 5. Endpoints
+## 5. Endpoints 🌐
 
 | Method | Path | Purpose |
 |---|---|---|
@@ -113,7 +113,7 @@ Keys are read only by the backend. The browser talks exclusively to this server'
 
 Status codes: `200` success, `404` unknown match, `422` bad query, `502` provider failure, `503` provider not configured.
 
-## 6. Refreshing fixtures and updating results
+## 6. Refreshing fixtures and updating results 🔄
 
 **Fixtures** are cached for 15 minutes and refreshed automatically on the next page load. To force it:
 
@@ -132,7 +132,7 @@ Each check asks only for the date range that still needs results, so a normal ch
 Invoke-RestMethod -Method Post http://127.0.0.1:8000/api/refresh/results
 ```
 
-## 7. How the data is put together
+## 7. How the data is put together 🧩
 
 **PitchAPI** (verified against the official `pitchapi` SDK, which mirrors the service's OpenAPI spec): `GET /v1/leagues` to find the Champions League, `GET /v1/leagues/{id}/matches?season=2026/2027&status=all` for fixtures, then per completed match `/v1/matches/{id}`, `/players`, `/advanced/players`, `/shots`, `/lineups`, `/stats`. Auth header `X-API-KEY`.
 
@@ -148,7 +148,7 @@ Invoke-RestMethod -Method Post http://127.0.0.1:8000/api/refresh/results
 
 **Standings.** StrikerAPI's league-phase table is used when it passes integrity checks (P = W+D+L, GD = GF−GA, single league-phase group, at most 36 clubs) and is at least as current as our verified results. Otherwise the table is **calculated** from completed league-phase matches with the UEFA ranking order: points, goal difference, goals scored, away goals scored, wins, away wins, opponents' points, opponents' goal difference, opponents' goals scored. The page always says how many of the 144 league-phase matches are included.
 
-## 8. Prediction model
+## 8. Prediction model 📊
 
 `backend/predictions/elo_poisson.py`:
 
@@ -158,7 +158,7 @@ Invoke-RestMethod -Method Post http://127.0.0.1:8000/api/refresh/results
 
 A prediction is stored in `data/predictions.json` while the match is upcoming. At kickoff it is **frozen** and never recomputed; the final score is attached next to it. `/api/model/evaluation` reports Brier score, log loss, accuracy and calibration bins. Fixture cards label the bar as a model estimate, and the match page labels a finished match's bar as the pre-match estimate, so it is never confused with the result.
 
-## 9. Tests
+## 9. Tests 🧪
 
 ```powershell
 python -m pytest -q
@@ -166,7 +166,7 @@ python -m pytest -q
 
 The suite (43 tests) uses mocked HTTP responses shaped like the official SDK models, so it needs no keys or network. It covers: season filtering and rejection of other seasons, de-duplication, StrikerAPI reconciliation and credit rate-limiting, out-of-credits handling, predictions totalling 100 and freezing at kickoff, zoneinfo DST handling, Key Players (5 per team, ≤3 appearances, no dates), standings calculation and tiebreakers, provider-table validation, empty states, 502/503/404/422 handling, no keys in API responses or frontend files, forbidden UI text, navigation, theme persistence wiring and JavaScript syntax (`node --check`, skipped if Node.js is not installed).
 
-## 10. Troubleshooting
+## 10. Troubleshooting 🛠️
 
 | Symptom | Cause / fix |
 |---|---|
@@ -180,7 +180,7 @@ The suite (43 tests) uses mocked HTTP responses shaped like the official SDK mod
 | `ZoneInfoNotFoundError` on Windows | `pip install tzdata` (it is in `requirements.txt`). |
 | Old data after fixing something | Delete the contents of `data/cache/` (keep `predictions.json`). |
 
-## 11. Known limitations
+## 11. Known limitations ⚠️
 
 - **Player positions.** PitchAPI returns a numeric `position_id` without a published label mapping, so positions are only shown where they are certain (goalkeepers, identified from goalkeeping data).
 - **Final two UEFA tiebreakers** (disciplinary points, club coefficient) are not provided by either source. Clubs still level after the other criteria are marked with `*`.
@@ -189,4 +189,7 @@ The suite (43 tests) uses mocked HTTP responses shaped like the official SDK mod
 - **Club crests** come from the URLs PitchAPI provides; when missing or broken, a neutral initials shield is drawn. No UEFA artwork is bundled; the star motif is original.
 - **Fonts** load from Google Fonts; offline, the system fonts are used.
 
-Independent fan project.
+## 12. Licensed By 📄
+
+<p align="left">Mubashir Hussain <span style="float: right;">All Rights Reserved</span></p>
+
